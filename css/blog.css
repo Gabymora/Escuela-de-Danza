@@ -1,0 +1,22 @@
+section {
+	background-color: #F2EDED;
+	padding-bottom: 50%
+}
+.h3b{
+	text-align: center;
+	font-family: Latolight;
+	padding-top: 5%;
+	padding-left: 5%;
+}
+.prof {		/*Imagen profile*/
+margin: 20px 0px 10px 0px;
+}
+.p1 {		/*Texto del profile*/
+text-align: left;
+margin: 45px 0px 10px 35px;
+background-color: #D2D1D1
+}
+section img{
+	width: 130%;
+
+}

@@ -1,0 +1,90 @@
+/*.................PROPIEDADES DEL MENU SUPERIOR................*/
+nav ul{
+list-style-type: none;
+padding-top: 15px;
+white-space: nowrap;
+text-align: center;
+padding-bottom: 20px;
+margin-bottom: 20px;
+}
+nav li {
+position: relative;
+display: inline;
+padding: 0;
+text-align: center;
+}
+nav a {
+text-decoration: none;
+padding: 10px 30px 10px 30px;
+color:gray;
+font-family:Latolight;
+}
+nav li:hover a{
+background: #3B4E8D;
+}
+nav a:hover {
+color:white;
+}
+
+.h2h{
+	font-family: Latolight;
+	text-align:center;
+	margin-top: 2%;
+	margin-bottom: 1%;
+}
+
+/*****************FOOTER************************/
+.bg-zap{		/*Zapato de danza*/
+	background-image: url("../img/shoes_1.jpg");
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 60%;
+	margin-top: 2%;
+}
+
+.foo {		/*Datos finales del footer*/
+background: #192951;
+padding-bottom: 30px;
+}
+.pfoo {		/*Datos finales del footer*/
+color: gray;
+font-size: 15px;
+text-align: left;
+margin-top: 5%;
+padding: 3%;
+}
+/*................CONTACTO.................*/
+
+.h2foo{		/*Posición de Palabra Contacto*/
+	margin-left: -10px; 
+	padding-bottom: 2%;
+}
+#cont{		/*Contenido dentro de cajas*/
+	font-family:Latolight;
+	margin-left: -30px;
+	margin-top: 5px;
+}
+.caja{		/*Propiedad de la caja*/
+	border: 2px solid #B4B4B4;
+	padding: 1%;
+	margin-top: 2%;
+}
+#imgfoo{	/*¨Propiedades de las imagenes*/
+	width: 60%;
+	padding: 0%;
+}
+.pb-10{
+	padding-bottom: 10%;
+}
+.cblue{
+	border: 2px solid #192951 ;
+	padding: 2% 2%;
+	margin-top: 2%;
+	background-color: #192951;
+	font-family: Neoteric-Bold;
+	text-align: center;
+	color: gray;
+	font-size: 20px;
+}
+
+
