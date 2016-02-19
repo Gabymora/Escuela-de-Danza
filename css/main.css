@@ -1,1 +1,47 @@
-/* Inserta tu codigo aqui */
+.inbg-1{		/*Primer imagen de studio*/
+background-image: url("../img/dance_8.jpg");	
+background-repeat: no-repeat;
+padding-top: 35%;
+background-position: 0 -90px;
+}
+.stu{ 	/*Propiedades sobre la imagen*/
+padding: 35px 30px;
+text-align: left;
+font-family: DolceVita;
+width: 23%;
+margin-top:-395px;
+margin-left: 95px;
+}
+.fts{	/*Tamaño de studio*/
+font-size: 60px;
+}
+
+.fts2 {
+font-family:Latolight;
+font-size: 22px;
+}
+.button1 {		/*Boton de Inscribete*/
+background-color: #0D152A;
+border: none;
+color: gray;
+padding: 10px 30px;
+text-align: center;
+margin: 20px 30px;
+cursor: pointer;
+}
+.deco{		/*Decoracion debajo de texto*/
+width: 15%;
+margin-left:43%;
+margin-top: -35px;
+margin-bottom: 25px;
+}
+.button2 {		/*Boton de oferta de clases*/
+background-color: #192951;
+color: white;
+border: none;
+padding: 20px 70px;
+text-align: center;
+margin-left: -185px;
+cursor: pointer;
+border-radius: 6px;
+}

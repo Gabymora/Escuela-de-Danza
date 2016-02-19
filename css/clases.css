@@ -1,1 +1,48 @@
-/* Inserta tu codigo aqui */
+section {
+background-color: #F2EDED;
+padding-bottom: 5%;
+}
+.h3c{		/*Texto de blog*/
+text-align: center;
+font-family: Latolight;
+padding-top: 5%;
+padding-left: 5%;
+padding-bottom: 3%;
+}
+.imgbg {
+background-size: 90%;
+background-repeat: no-repeat;
+position: relative;
+display: inline-block;
+margin-top: 20px;
+}
+.cobs{
+background-color: black;
+opacity: 0.6;
+padding: 20px 20px;
+text-align: center;
+font-family: Latolight;
+width: 85%;
+margin:120px 0px;
+}
+
+.cim1{
+background-image: url("../img/dance_12.jpg");
+}
+.cim2{
+background-image: url("../img/breakdance.jpg");
+background-position: 0 -30px;
+}
+.cim3 {
+background-image: url("../img/lirical-jazz.jpg");
+background-position: 0 -30px;
+}
+.cim4{
+background-image: url("../img/arabe.jpg");
+}
+.cim5{
+background-image: url("../img/little.jpg");
+}
+.cim6{
+background-image: url("../img/yoga.jpg");
+}

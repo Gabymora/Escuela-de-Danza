@@ -1,1 +1,77 @@
-/* Inserta tu codigo aqui */
+.nosbg{		/*Primer imagen de fondo*/
+background-image: url("../img/dance_7.jpg");
+background-repeat: no-repeat;
+background-position: 0 -120px;
+padding-top: 30%;
+}
+.cnos{		/*Primer recuadro encima de la imagen*/
+background-color: black;
+opacity: 0.6;
+padding: 35px 30px;
+text-align: center;
+font-family: Latolight;
+width: 35%;
+margin-top:-292px;
+margin-left: 28%;
+}
+.pilbg{		/*fondo de pilares*/
+background-image: url("../img/cubes.png");
+padding-bottom: 5%;
+}
+#c1 {		/*Propiedades de los cuadros de pilar*/
+margin-top: 60px;
+margin-bottom: 20px;
+margin-right: 30px;
+width: 30%;
+font-family: Latolight;
+text-align: center;
+padding: 20px 10px
+}
+.bb{	/*Linea de pilar*/
+border-bottom: 2px gray solid;
+}
+.h2p{
+text-align: center;
+font-family: LatoHeavy;
+}
+.imgp>div{		/*Imagen profesores*/
+background-size: 100%;
+background-repeat:no-repeat;
+height: 161px;
+width: 212px;
+}
+.esp{	/*margen para que las imagenes no se junten*/
+padding-top: 50px;
+padding-bottom:50px;
+}
+/*........................FOTOS..........................*/
+.prof1{
+background-image: url("../img/profesor_4.jpg")
+}
+.prof2{
+background-image: url("../img/profesor_14.jpg")
+}
+.prof3{
+background-image: url("../img/profesor_1.jpg")
+}
+.prof4{
+background-image: url("../img/profesor_10.jpg")
+}
+.prof5{
+background-image: url("../img/profesor_11.jpg")
+}
+.prof6{
+background-image: url("../img/profesor_12.jpg")
+}
+.prof7{
+background-image: url("../img/profesor_9.jpg")
+}
+.prof8{
+background-image: url("../img/profesor_15.jpg")
+}
+/*........................................................*/
+.pfrase{
+text-align: center;
+font-family: Neoteric-Bold;
+font-size: 25px;
+}

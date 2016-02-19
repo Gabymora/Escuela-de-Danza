@@ -1,22 +1,46 @@
 section {
-	background-color: #F2EDED;
-	padding-bottom: 50%
+background-color: #F2EDED;
+padding-bottom: 8%;
 }
-.h3b{
-	text-align: center;
-	font-family: Latolight;
-	padding-top: 5%;
-	padding-left: 5%;
+.h3b{		/*Texto de blog*/
+text-align: center;
+font-family: Latolight;
+padding-top: 5%;
+padding-left: 5%;
+margin-bottom: 2%;
 }
-.prof {		/*Imagen profile*/
-margin: 20px 0px 10px 0px;
+.titu{		/*propiedades de la caja de titulos*/
+margin-top: 30px;
+background-color: #C9C7C7;
+padding-top: 4%;
+padding-bottom: 15%;
+float: right;
+width: 70%;
+height: 240px;
+position: relative;
+margin-bottom: 30px;
 }
-.p1 {		/*Texto del profile*/
-text-align: left;
-margin: 45px 0px 10px 35px;
-background-color: #D2D1D1
+.med {		/*medida y posisicion de las imagenes*/
+width: 30%;
+height: 240px;
+position: relative;
+margin-top: 30px;
+margin-bottom: 30px;
 }
-section img{
-	width: 130%;
-
+.der{		/*posicion del texto en caja gris*/
+margin-left:50px;
+margin-top: 10px;
+padding-right: 15px;
+position: absolute;
+}
+.button {		/*Boton de ver mas*/
+font-style: Latolight;
+background-color: #192951;
+color: white;
+padding: 8px 60px;
+text-align: center;
+display: inline-block;
+margin: 20px 0px;
+cursor: pointer;
+border-radius: 8px;
 }
